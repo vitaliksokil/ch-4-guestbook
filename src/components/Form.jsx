@@ -29,7 +29,7 @@ export default function Form({ onSubmit, currentUser }) {
           />
           <span title="NEAR Tokens">Ⓝ</span>
         </p>
-        <button type="submit">
+        <button type="submit" className="my-3">
           Sign
         </button>
       </fieldset>
